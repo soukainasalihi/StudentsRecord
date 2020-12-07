@@ -1,0 +1,100 @@
+
+Student Name  :     Jullie Marc         
+Student class :     Freshman            
+student major :     Biology             
+Test scores   :     23  37  48  53  57  62  70  74  77  87  
+The mean      :     58.80               
+The mode      :     58  
+The median    :     59                  
+The deviation :     18.45               
+
+
+Student Name  :     Marla Wilson        
+Student class :     Freshman            
+student major :     Literature          
+Test scores   :     32  38  48  51  54  56  68  89  93  93  
+The mean      :     62.20               
+The mode      :     93    
+The median    :     55                  
+The deviation :     21.40               
+
+
+Student Name  :     Jihan Chow          
+Student class :     Senior              
+student major :     Engineering         
+Test scores   :     3   31  47  47  53  61  62  76  78  89  
+The mean      :     54.70               
+The mode      :     47    
+The median    :     57                  
+The deviation :     23.71               
+
+
+Student Name  :     Jessica Thomy       
+Student class :     Junior              
+student major :     Fine Arts           
+Test scores   :     18  23  38  47  49  54  55  78  85  97  
+The mean      :     54.40               
+The mode      :     54  
+The median    :     51                  
+The deviation :     24.44               
+
+
+Student Name  :     Ellisio Bruno       
+Student class :     Senior              
+student major :     Geology             
+Test scores   :     5   8   31  32  35  46  60  70  74  93  
+The mean      :     45.40               
+The mode      :     45  
+The median    :     40                  
+The deviation :     27.26               
+
+
+Student Name  :     Sally Smith         
+Student class :     Freshman            
+student major :     History             
+Test scores   :     4   24  49  51  65  71  75  90  93  98  
+The mean      :     62.00               
+The mode      :     62  
+The median    :     68                  
+The deviation :     28.98               
+
+
+Student Name  :     John Jones          
+Student class :     Junior              
+student major :     Economics           
+Test scores   :     2   26  29  30  48  72  76  78  87  92  
+The mean      :     54.00               
+The mode      :     54  
+The median    :     60                  
+The deviation :     29.40               
+
+
+Student Name  :     Mary Dany           
+Student class :     Junior              
+student major :     Philosophy          
+Test scores   :     5   10  34  55  55  72  75  78  93  97  
+The mean      :     57.40               
+The mode      :     55    
+The median    :     63                  
+The deviation :     30.55               
+
+
+Student Name  :     Edward Thom         
+Student class :     Junior              
+student major :     Music               
+Test scores   :     4   19  42  48  72  92  93  96  96  97  
+The mean      :     65.90               
+The mode      :     96    
+The median    :     82                  
+The deviation :     33.40               
+
+
+Student Name  :     Barbara Josh        
+Student class :     Senior              
+student major :     Linguistics         
+Test scores   :     1   3   11  12  31  37  80  81  85  86  
+The mean      :     42.70               
+The mode      :     42  
+The median    :     34                  
+The deviation :     34.57               
+
